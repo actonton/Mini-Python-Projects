@@ -1,2 +1,2 @@
 # Mini-Python-Projects
-Showcasing my mini python projects
+Showcasing basic knowledge of python by making mini game/applications.  Enjoy!
